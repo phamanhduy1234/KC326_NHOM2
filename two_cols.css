@@ -68,7 +68,7 @@ padding: 0px;
 		}
 	#left li a{
 		
-    	display: inline-block;
+    	display:block;
     	color: white;
     	padding-top: 10;
 		padding-bottom: 10;
